@@ -1,5 +1,5 @@
 sub tee()
 range("a1").value = 333
-
-
+range("b2")=444
+range("b3") = "你好"
 end sub
