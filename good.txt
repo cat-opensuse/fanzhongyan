@@ -5,4 +5,5 @@ range("b3") = "你好"
 range("b4") = "第三次提交"
 range("b5") = "第四次提交"
 range("b6") = "5"
+range("b7") = "6"
 end sub
