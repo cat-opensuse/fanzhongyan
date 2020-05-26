@@ -9,4 +9,5 @@ range("b6") = "5"
 range("b7") = "6"
 range("b8") = "7"
 range("b9") = "9" ' test confilit master
+range("b10) = "10" 'edit by hot_fix
 end sub
