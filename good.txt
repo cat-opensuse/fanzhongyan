@@ -8,4 +8,5 @@ range("b5") = "edit by master"
 range("b6") = "5"
 range("b7") = "6"
 range("b8") = "7"
+range("b10) = "10" 'edit by hot_fix
 end sub
